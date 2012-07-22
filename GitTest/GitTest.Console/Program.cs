@@ -10,7 +10,7 @@ namespace GitTest.Console
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("GIT test app!");
+            System.Console.WriteLine("GIT test app! - updated!");
         }
     }
 }
